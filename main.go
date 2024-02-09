@@ -1,10 +1,9 @@
 package main
 
 import (
-	"apresentacao_go/controllers"
-	"apresentacao_go/database"
-
 	"github.com/gofiber/fiber/v2"
+	"github.com/marcoagpegoraro/simple_api_golang/controllers"
+	"github.com/marcoagpegoraro/simple_api_golang/database"
 )
 
 func init() {

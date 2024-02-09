@@ -1,10 +1,9 @@
 package controllers
 
 import (
-	"apresentacao_go/database"
-	"apresentacao_go/models"
-
 	"github.com/gofiber/fiber/v2"
+	"github.com/marcoagpegoraro/simple_api_golang/database"
+	"github.com/marcoagpegoraro/simple_api_golang/models"
 )
 
 func GetClientes(c *fiber.Ctx) error {
