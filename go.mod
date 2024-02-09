@@ -1,4 +1,4 @@
-module apresentacao_go
+module github.com/marcoagpegoraro/simple_api_golang
 
 go 1.21.0
 
