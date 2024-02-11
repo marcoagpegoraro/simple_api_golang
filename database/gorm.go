@@ -1,8 +1,7 @@
 package database
 
 import (
-	"apresentacao_go/models"
-
+	"github.com/marcoagpegoraro/simple_api_golang/models"
 	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"
 )
